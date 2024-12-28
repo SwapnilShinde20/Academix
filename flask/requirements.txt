@@ -1,0 +1,26 @@
+# Flask and its extensions
+Flask==2.3.2
+flask-cors==3.0.10
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# MongoDB client
+pymongo==4.5.0
+
+# Cloudinary for file uploads
+cloudinary==1.30.0
+
+# InsightFace for facial recognition
+insightface==0.7.3
+
+# ONNX Runtime (required by InsightFace)
+onnxruntime==1.16.0
+
+# Computer vision libraries
+opencv-python-headless==4.8.1.78
+Pillow==10.0.1
+numpy==1.26.0
+
+# HTTP requests
+requests==2.31.0
